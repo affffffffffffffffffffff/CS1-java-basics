@@ -1,4 +1,4 @@
-# java-projects-basics
+# java-basics
 Hosts all the basic Java-based projects for 4th Period Advanced CS1 2022-2023 with Armand Ramones. Terminal-only; doesn't include any javafx or java.awt.graphics
 * This code is provided as-is with no documentation. 
 * Code provided in good faith. 
