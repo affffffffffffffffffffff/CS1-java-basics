@@ -64,6 +64,8 @@ Hosts all the basic Java-based projects for 4th Period Advanced CS1 2022-2023 wi
 <details><summary>
 
 ### Cycle 4: 9 January 2023 - 24 February 2023
+└───02.21.2023_Arrays
+
 
 </summary>
 
