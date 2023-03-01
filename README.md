@@ -81,7 +81,10 @@ Hosts all the basic Java-based projects for 4th Period Advanced CS1 2022-2023 wi
 
 ```
 ├───02.27.2023_LineCounter
-└───02.28.2023_LineTotal
+├───02.28.2023_LineTotal
+├───03.01.2023_AverageLine
+├───03.01.2023_LineBreaker
+└───03.01.2023_OddEvenCounter
 ```
 
 </details>
