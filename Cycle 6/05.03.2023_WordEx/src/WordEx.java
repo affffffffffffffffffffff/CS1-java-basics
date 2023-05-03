@@ -1,14 +1,14 @@
 
 public class WordEx {
 	// 1. instance var
-	String str = "";
+	private String str = "";
 	
 	// 2. methods
 	
 	// 2.1 constructor
 	public WordEx() {}
 	public WordEx(String a) {
-		str = a;
+		setString(a);
 	}
 	// 2.2 set
 	public void setString(String a) {
