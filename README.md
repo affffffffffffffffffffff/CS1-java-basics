@@ -99,7 +99,8 @@ Hosts all the basic Java-based projects for 4th Period Advanced CS1 2022-2023 wi
 ├───05.02.2023_Wxy
 ├───05.03.2023_WordEx
 ├───05.04.2023_MixedUp
-└───05.08.2023_MixedUp
+├───05.08.2023_MixedUp
+└───05.10.2023_Alpha
 ```
 
 </details>
